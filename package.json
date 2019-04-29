@@ -1,6 +1,6 @@
 {
   "name": "bellcore-lib",
-  "version": "0.16.0",
+  "version": "0.16.01",
   "description": "A pure and powerful JavaScript Bellcoin library.",
   "author": "y-chan <yuto_tetuota@yahoo.co.jp>",
   "main": "index.js",
@@ -86,7 +86,6 @@
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
     "lodash": "=4.17.11",
-    "bellcoin-yespower": "1.0.0"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
