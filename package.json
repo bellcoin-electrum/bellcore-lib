@@ -86,7 +86,7 @@
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
     "lodash": "^3.10.1",
-    "bellcoin-yespower": "git://github.com/bellcoin-electrum/node-bellcoin-yespower.git"
+    "bellcoin-yespower": "1.0.0"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
