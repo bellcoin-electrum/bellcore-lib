@@ -10,11 +10,11 @@ Bellcoin is a powerful new peer-to-peer platform for the next generation of fina
 ## Get Started
 
 ```
-npm install git://github.com/bellcoin-electrum/bellcore-lib
+npm install bellcore-lib
 ```
 
 ```
-bower install git://github.com/bellcoin-electrum/bellcore-lib
+bower install bellcore-lib
 ```
 
 ## Documentation
